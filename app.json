@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "Native_Design_Test",
-    "slug": "Native_Design_Test",
+    "name": "Food_Ordering_App",
+    "slug": "Food_Ordering_App",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",

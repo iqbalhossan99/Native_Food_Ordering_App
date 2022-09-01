@@ -17,7 +17,7 @@ function App() {
     <>
       <Provider store={store}>
 
-        <StatusBar style="auto" />
+        <StatusBar style="auto" /> 
         <Router />
       </Provider>
     </>
